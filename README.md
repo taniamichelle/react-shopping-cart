@@ -2,6 +2,7 @@
 
 In this module you will take your newfound knowledge of `Context API` and refactor a e-commerce store to use `Context API` as well as extend the functionality of the application making it more robust!
 
+
 ## Instructions
 
 Read these instructions carefully. Understand exactly what is expected _before_ starting this project.
